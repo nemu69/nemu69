@@ -69,7 +69,7 @@ while(dev.isCoding(status._workingOn) && dev.isStuck(status._learning))
 ```
 
 <div align="center">
-  <img height="300em" align="center" src="https://mgl.skyrock.net/art/SHAR.8061.587.2.gif" />
+  <img height="250em" align="center" src="https://mgl.skyrock.net/art/SHAR.8061.587.2.gif" />
   <img align="center" src="https://data.whicdn.com/images/54406285/original.gif" />
 </div>
 
