@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="jacens" src="https://user-images.githubusercontent.com/45235527/106356790-7c371080-6302-11eb-8274-31ed5ffe91bf.gif"/>
+  <img alt="nemu69" src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif?raw=true"/>
 </div>
 
 ### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> &nbsp;School
