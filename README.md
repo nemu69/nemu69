@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="nemu69" src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif?raw=true"/>
+  <img height="400em" alt="nemu69" src="https://github.com/nemu69/nemu69/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true"/>
 </div>
 
 ### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> &nbsp;School
@@ -41,18 +41,18 @@
 
 document.write("Hello World");
 
-import SoftwareDeveloper from 'Jacens';
+import SoftwareDeveloper from 'nepage-l';
 
 var status = 
 { 
-  _learning : [Ruby],
-  _workingOn: [Webserv]
+  _learning : [NodeJs],
+  _workingOn: [Ft_transcendance]
 }
 
 class Skills extends SoftwareDeveloper {
   languages    = ['C', 'C#', 'Cpp', 'Python', 'Bash', 'Html', 'Css', 'Javascript', 'Asm'];
   technologies = ['Docker', 'Kubernetes', 'Grafana', 'Wordpress', 'PhpMyAdmin'];
-  ide          = ['Vs Code];
+  ide          = ['Vs Code'];
   libraries    = ['Jquery', 'Axions'];
   frameworks   = ['NestJS'];
   databases    = ['MySql', 'Influxdb'];
