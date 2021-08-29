@@ -1,9 +1,8 @@
 <div align="center">
   <img height="400em" alt="nemu69" src="https://github.com/nemu69/nemu69/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true"/>
 </div>
-<div align="center">
-  ![Profile views](https://gpvc.arturio.dev/nemu69)
-</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nemu69&label=Profile%20views&color=0e75b6&style=flat" alt="nemu69" /></p>
 
 ### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> &nbsp;School
 
