@@ -47,17 +47,17 @@ import SoftwareDeveloper from 'nepage-l';
 
 var status = 
 { 
-  _learning : [NodeJs],
-  _workingOn: [Ft_transcendance]
+  _learning : [Python],
+  _workingOn: [IA DataScience]
 }
 
 class Skills extends SoftwareDeveloper {
-  languages    = ['C', 'C#', 'Cpp', 'Python', 'Bash', 'Html', 'Css', 'Javascript', 'Asm'];
+  languages    = ['C', 'C#', 'Cpp', 'Python', 'Bash', 'Html', 'Css', 'JavaScript', 'Asm', 'TypeScript'];
   technologies = ['Docker', 'Kubernetes', 'Grafana', 'Wordpress', 'PhpMyAdmin'];
   ide          = ['Vs Code'];
   libraries    = ['Jquery', 'Axions'];
-  frameworks   = ['NestJS'];
-  databases    = ['MySql', 'Influxdb'];
+  frameworks   = ['Angular','NestJS'];
+  databases    = ['MySql', 'Influxdb', 'Postgress'];
 }
 
 Developer dev = new Developer(nemu69);
