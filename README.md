@@ -9,6 +9,11 @@
 <div align="center">
   <img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg"/>
 </div>
+</br>
+<div align="center">
+	<img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=nepage-l" />
+</div>
+
 
 ### <img height="30em" src="https://img.icons8.com/fluent/344/download-pie-chart-report.png" alt="Analytics"/> &nbsp;GitHub Analytics
 
