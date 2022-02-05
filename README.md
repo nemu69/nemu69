@@ -7,7 +7,7 @@
 ### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> &nbsp;School
 
 <div align="center">
-	<img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=nepage-l" />
+	<img src="https://badge42.herokuapp.com/api/stats/nepage-l" />
 </div>
 
 </br>
