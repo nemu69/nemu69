@@ -7,15 +7,15 @@
 ### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> &nbsp;School
 
 <div align="center">
-	<img src="https://badge42.herokuapp.com/api/stats/nepage-l" />
+  <img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg" width="600"/>
 </div>
 
 </br>
 
 <div align="center">
-  <img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg" width="600"/>
+<!-- 	<img src="https://badge42.herokuapp.com/api/stats/nepage-l" /> -->
+	<img src="https://badge42.vercel.app/api/v2/stats/cl17wx4w9002509mm323d8nca?cursusId=21" />
 </div>
-
 
 ### <img height="30em" src="https://img.icons8.com/fluent/344/download-pie-chart-report.png" alt="Analytics"/> &nbsp;GitHub Analytics
 
@@ -23,6 +23,7 @@
 <a href="https://github.com/nemu69">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nemu69&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nemu69&layout=compact&langs_count=8&theme=vue"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=nemu69&row=2&column=3"/>
 </a>
 </p>
 
