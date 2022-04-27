@@ -13,7 +13,6 @@
 </br>
 
 <div align="center">
-<!-- 	<img src="https://badge42.herokuapp.com/api/stats/nepage-l" /> -->
 	<img src="https://badge42.vercel.app/api/v2/stats/cl17wx4w9002509mm323d8nca?cursusId=21" />
 </div>
 
