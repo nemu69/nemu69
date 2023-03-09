@@ -1,18 +1,12 @@
-<div align="center">
-  <img height="400em" alt="nemu69" src="https://github.com/nemu69/nemu69/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true"/>
-</div>
+ <img src="svgviewer-output.svg" style="width: 100%;" alt="Click to see the source">
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nemu69&label=Profile%20views&color=0e75b6&style=flat" alt="nemu69" /></p>
 
 ### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> &nbsp;School
 
 <div align="center">
-  <img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg" width="600"/>
-</div>
-
-</br>
-
-<div align="center">
+	<img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg" width="600"/>
 	<img src="https://badge42.vercel.app/api/v2/stats/cl17wx4w9002509mm323d8nca?cursusId=21" />
 </div>
 
