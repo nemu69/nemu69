@@ -1,5 +1,6 @@
- <img src="svgviewer-output.svg" style="width: 100%;" alt="Click to see the source">
-
+ <div align="center">
+ <img src="svgviewer-output.svg" style="width: 80%" alt="Click to see the source">
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nemu69&label=Profile%20views&color=0e75b6&style=flat" alt="nemu69" /></p>
 
@@ -7,7 +8,6 @@
 
 <div align="center">
 	<img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg" width="600"/>
-	<img src="https://badge42.vercel.app/api/v2/stats/cl17wx4w9002509mm323d8nca?cursusId=21" />
 </div>
 
 ### <img height="30em" src="https://img.icons8.com/fluent/344/download-pie-chart-report.png" alt="Analytics"/> &nbsp;GitHub Analytics
