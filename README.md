@@ -15,8 +15,8 @@
 
 ### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> &nbsp;School
 
-<div align="center">
-	<img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg" width="600"/>
+<div align="">
+	<img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg" width="300"/>
 </div>
 
 
