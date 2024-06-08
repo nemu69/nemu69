@@ -52,7 +52,7 @@ import SoftwareDeveloper from 'nepage-l';
 
 var status = 
 { 
-  _learning : [Angular V17 + .NET 8],
+  _learning : [Angular V18 + .NET 8],
   _workingOn: [IA + Web]
 }
 
@@ -61,7 +61,7 @@ class Skills extends AngularDeveloper {
   technologies = ['NodeJS', '.NET', 'Docker', 'Kubernetes', 'Grafana'];
   ide          = ['Vs Code'];
   libraries    = ['Jquery', 'Axions'];
-  frameworks   = ['Angular','ASP.NET', 'NestJS'];
+  frameworks   = ['Angular','.NET'];
   databases    = ['MySql', 'Influxdb', 'Postgress'];
 }
 
