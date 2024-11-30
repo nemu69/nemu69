@@ -5,12 +5,13 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=nemu69&label=Profile%20views&color=0e75b6&style=flat" alt="nemu69" /></p>
 
 <br>
-<p align="center"><img src="angular_renaissance.png" alt="angular-logo" width="120px" height="120px"/></p>
-<h1 align="center">Angular developer - Soon Google dev expert (GDE)</h1>
+<div align="center">
+	<img src="angular_renaissance.png" alt="angular-logo" width="120px" height="120px"/>
+	<img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.jpg" alt="angular-logo" width="120px" height="120px"/>
+</div>
+<h1 align="center">Angular / .NET expert </h1>
 <p align="center">
-	  <em>Angular is a development platform for building mobile and desktop web applications
-	    <br> using TypeScript</em>
-	  <br>
+	  <em>Soon Google dev expert <b>(GDE)</b> and Microsoft Most Valuable Professionals <b>(MVP)</b>
 </p>
 
 ### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> &nbsp;School
@@ -35,10 +36,10 @@
 ### <img height="30em" src="https://img.icons8.com/color/344/console.png" alt="School"/> &nbsp;Technologies
 
 <div class="center">
-	<a href="https://github.com/search?q=user%3Anemu69+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Anemu69+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Anemu69+is%3Arepo+language%3Adocker"><img alt="NodeJS" src="https://img.shields.io/badge/Docker%20-%23507ACC.svg?logo=docker&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Anemu69+is%3Arepo+language%3Akubernetes"><img alt="NodeJS" src="https://img.shields.io/badge/Kubernetes%20-%235FAACC.svg?logo=kubernetes&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3Anemu69+is%3Arepo+language%3AtypeScript+&type=repositories"><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3Anemu69+language%3AC%23+&type=repositories"><img alt="Dotnet" src="https://img.shields.io/badge/NET%20-%23632CA6.svg?logo=dotnet&logoColor=white"></a>	
+	<a href="https://github.com/search?q=user%3Anemu69+is%3Arepo+language%3Adocker+&type=repositories"><img alt="NodeJS" src="https://img.shields.io/badge/Docker%20-%23507ACC.svg?logo=docker&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3Anemu69+is%3Arepo+language%3Akubernetes+&type=repositories"><img alt="NodeJS" src="https://img.shields.io/badge/Kubernetes%20-%235FAACC.svg?logo=kubernetes&logoColor=white"></a>
 	
 </div>
 
@@ -75,13 +76,6 @@ while(dev.isCoding(status._workingOn) && dev.isStuck(status._learning))
   dev.feelProfessional();
 }
 ```
-
-<div align="center">
-  <img height="230em" align="center" src="https://mgl.skyrock.net/art/SHAR.8061.587.2.gif" />
-  <img height="230em" align="center" src="https://data.whicdn.com/images/54406285/original.gif" />
-</div>
-
-#
 
 <div align="center">
   <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=nemu69&layout=compact&theme=flag-india"   alt="acens-skl" />
